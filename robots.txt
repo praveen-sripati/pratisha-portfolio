@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://praveen-sripati.github.io/pratisha-portfolio/sitemap.xml
